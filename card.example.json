@@ -1,0 +1,9 @@
+{
+  "consent": true,
+  "slug": "imya-familiya",
+  "name": "Имя Фамилия",
+  "qr_url": "https://example.org/profile",
+  "name_link": "https://example.org/profile",
+  "tagline": {"ru": "Профессия или услуга", "pl": "Zawód lub usługa", "uk": "Професія або послуга", "be": "Прафесія або паслуга", "en": "Profession or service"},
+  "description": {"ru": "Одна-две фразы о себе", "en": "One or two sentences about you"}
+}
